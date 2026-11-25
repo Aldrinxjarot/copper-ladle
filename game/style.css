@@ -1,0 +1,38 @@
+/* The Copper Ladle — page frame. The game itself is all canvas; this only
+   centres it on a warm backdrop and keeps it inside the window. */
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  background: #241611 radial-gradient(1200px 700px at 50% 30%, #3a2115 0%, #241611 70%);
+  font-family: Georgia, 'Times New Roman', serif;
+  color: #f3e2c7;
+}
+
+#frame {
+  width: min(96vw, 1240px);
+  margin: 18px auto 26px;
+  text-align: center;
+}
+
+#game {
+  width: 100%;
+  height: auto;
+  display: block;
+  background: #2b1a10;
+  border: 6px solid #6d4423;
+  border-radius: 14px;
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.55), inset 0 0 0 2px #a9763f;
+  cursor: pointer;
+}
+
+#hint {
+  margin: 12px auto 0;
+  max-width: 900px;
+  font-size: 15px;
+  line-height: 1.45;
+  color: #d9bd93;
+}
