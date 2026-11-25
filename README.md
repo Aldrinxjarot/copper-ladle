@@ -1,3 +1,7 @@
+[![make.fun bounty](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Aldrinxjarot/copper-ladle/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Aldrinxjarot/copper-ladle/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+
 # The Copper Ladle
 
 A tiny diner cooking game for make.fun's "Make the best cooking game"
